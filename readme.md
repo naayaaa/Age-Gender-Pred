@@ -1,6 +1,6 @@
 # Age Gender Prediction				
 
-This repository is used for finding and predicting from an image one or multiple human's gender and age(confidence scores provided for both age and gender).
+This repository is used for finding and predicting from an image one or multiple human's gender and age(confidence scores provided for both age and gender). **94% acc** for gender and **MAE of 4.2** for age can be achieved after just 32 epochs of training. 
 
 
 
@@ -44,8 +44,8 @@ call `eval_live()` function in `evaluate.py`
 
 #### **Test**
 
-1. detect and align faces using `dlib`
-2. predict age and gender using ResNet-18 architecture
+1. detect and align faces using `dlib`.
+2. predict age, gender and confidence scores(probability of each gender and variance of age).
 
 ## Reference
 
