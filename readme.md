@@ -22,9 +22,9 @@ This code repositort is used for finding and predicting from an image one or mul
 3. put your test image in `pics/val/`
 4. run `python evaluate.py`
 
-#### **real-time predicting**
+#### **Real-time Prediction**
 
-just call `eval_live()` function in `evaluate.pt`
+call `eval_live()` function in `evaluate.py`
 
 ## Train/Test Pipeline
 
@@ -49,6 +49,10 @@ just call `eval_live()` function in `evaluate.pt`
 [2] Antipov G, Baccouche M, Berrani S-A et al. Effective training of convolutional neural networks for face-based gender and age prediction [J/OL]. Pattern Recognition. 72. 2017, December: 15–26. https: //hal.archives-ouvertes.fr/hal-01556389.
 
 [3] Panis G, Lanitis A, Tsapatsoulis N et al. Overview of research on facial ageing using the FG-NET ageing database [J]. IET Biometrics. 5 (2). 2016: 37–46.
+
+## Contact
+
+Feel free to mail jingkuan.zhang@yale.edu for any pretrained weight or quetsions and bug report about this repo :)
 
 
 
