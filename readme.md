@@ -2,11 +2,7 @@
 
 This code repositort is used for finding and predicting from an image one or multiple human's gender and age(confidence scores provided for both age and gender).
 
-```
-              |   
-:-------------------------:|:-------------------------:
 ![Example](https://wx1.sinaimg.cn/mw690/98d135cfly1fs06rsr5adj20mx0cwtc9.jpg)  |  ![Example](https://wx1.sinaimg.cn/mw690/98d135cfly1fs06rsadytj20hs0bv415.jpg)
-```
 
 #### Requirements
 
