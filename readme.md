@@ -18,9 +18,8 @@ This repository is used for finding and predicting from an image one or multiple
 #### **Predicting images in val/ folder**
 
 1. train the model using `python train.py`, weight will be stored in `models/`
-2. or download pretrained weight from url[pending]
-3. put your test image in `pics/val/`
-4. run `python evaluate.py`
+2. put your test image in `pics/val/`
+3. run `python evaluate.py`
 
 #### **Real-time Prediction**
 
@@ -57,7 +56,7 @@ call `eval_live()` function in `evaluate.py`
 
 ## Contact
 
-Feel free to mail jingkuan.zhang@yale.edu for any pretrained weight or quetsions and bug report about this repo :)
+Feel free to mail jingkuan.zhang@yale.edu for any quetsions or bug report about this repo :)
 
 
 
