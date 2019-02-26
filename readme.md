@@ -37,7 +37,7 @@ call `eval_live()` function in `evaluate.py`
    - the output is 2 neuron represents probs of male&female plus 100 neurons represents probs of being age 0-99.
    - auto detect if use GPU or even multiple GPUs for training.
    - auto reduce learning rate when we have no loss reduce on val dataset for >N epochs.
-   - auto freeze CNN laters and train only last FCN layers when first epoch.
+   - auto freeze CNN layers and train only last FCN layers when first epoch.
    - auto load and save weights, log training loss and metadatas after each epoch.
    - more detains can be found on src file `train.py` and configuration file `config.ini`
 
