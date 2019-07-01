@@ -18,8 +18,8 @@ This repository is used for finding and predicting from an image one or multiple
 #### **Training**
 
 1. Put your image in pics/ (see config.ini for naming details)
-2. Run preprocessing steps in preprocess.py
-3. Run train.py
+2. Run preprocessing steps in `preprocess.py`
+3. Run `train.py`
 
 #### **Predicting images in val/ folder**
 
