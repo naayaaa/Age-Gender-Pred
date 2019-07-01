@@ -15,6 +15,12 @@ This repository is used for finding and predicting from an image one or multiple
 
 ## Usage
 
+#### **Training**
+
+1. Put your image in pics/ (see config.ini for naming details)
+2. Run preprocessing steps in preprocess.py
+3. Run train.py
+
 #### **Predicting images in val/ folder**
 
 1. train the model using `python train.py`, weight will be stored in `models/`
