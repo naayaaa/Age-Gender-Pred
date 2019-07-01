@@ -232,16 +232,16 @@ def divideTrainVal():
 
 
 if __name__ == "__main__":
-  # print("labeling..")
-  # addlabels(data='imdb', clean=True)
-  #
-  # print("aligning..")
-  # align_faces(clean = True)
-  #
-  # print("dividing..")
-  # divideTrainVal()
+  print("labeling..")
+  addlabels(data='imdb', clean=True)
+  
+  print("aligning..")
+  align_faces(clean = True)
+  
+  print("dividing..")
+  divideTrainVal()
 
-  creat_fgnet_val(clean=True)
+#   creat_fgnet_val(clean=True)
   pass
 
 
