@@ -60,10 +60,6 @@ call `eval_live()` function in `evaluate.py`
 
 [3] Panis G, Lanitis A, Tsapatsoulis N et al. Overview of research on facial ageing using the FG-NET ageing database [J]. IET Biometrics. 5 (2). 2016: 37–46.
 
-## Contact
-
-Feel free to mail jingkuan.zhang@yale.edu for any quetsions or bug report about this repo :)
-
 
 
 
